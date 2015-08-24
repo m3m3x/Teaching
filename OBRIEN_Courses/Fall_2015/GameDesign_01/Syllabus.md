@@ -2,12 +2,12 @@
 Instructor: Nicholas O’Brien
 Contact: nobrien@stevens.edu
 
-##Course Description
+####Course Description
 You enter the classroom and see **DESKS**, **BOARD GAMES**, **A PROJECTOR**, **GAME CONSOLES**, wall to wall **WHITE BOARDS**, and some fellow **CLASSMATES**. The **TEACHER** welcomes you and invited you to take an empty seat. You are facing **NORTH**.
 
 This class is a quest. Your classmates are you party members. On this quest you will gain experience. Your party will collect items and create an inventory. By the end of this quest your reward will be the ability to make new quests.
 
-##Course Structure
+####Course Structure
 The course hinges on an overarching metaphor of treating the semester as a collaborative and interactive Role Playing Game (RPG). Your individual statistics (stats) and experience points (XP) will be tracked and updated every class period. Though personal stats will depend on your participation and research, working together as a “questing party” will greatly enhance overall party progress and XP. 
 
 As is the case with many RPGs, some material for the class will only be “unlocked” when you have a certain amount of XP to Level Up. For instance, XP will be granted once all students have shown the ability to properly code and execute collision detection. These benchmarks will be used to not only make sure that everyone in the class is on the same page, but also will encourage party members to work together in order to unlock more advanced material. This being said, some students might gain XP more quickly (by equipping talismans or artifacts of ancient/prior knowledge). Only by working together will the entire party advance into unexplored realms.
@@ -27,18 +27,18 @@ The structure of the course will mutate and evolve over time, and specific examp
 
 The RPG of the class is intended to be fun and light – to be something you can wear softly, and choose to take as seriously or as casual as you like. That being said, the RPG of this course has, like all games, limitations and rules. Some rules are meant to be broken (and we will be talking about cheats and spoilsports during the semester). However, the main rule is that you are getting what you want out of this class and that the structure is meant to show the creative power of game design to create communities and discovery.
 
-##Attendance
+####Attendance
 The Visual Art & Technology policy for classes is that attendance is mandatory. The success of this class depends on student participation and engagement. If you are not here for demos, class critiques, group discussions, and collaborative activities, then we all suffer.
 
 You are allowed two absences. After the third absence your final grade will be automatically lowered by one letter. If you are >10 minuets late you will be marked tardy and three tardies equal an absence. As will be noted later, class participation is part of your grade. This means even if you are here, you must be present. Coming to class unprepared or wasting class time could end up being marked absent.
 
 The only exception to this policy is in the case of extreme illness/injury. Please talk with the professor privately about any concerns you have about this policy.
 
-Grading
+####Grading
 Grading in this course is not directly tied to student XP. Some students will have higher levels than others depending on skill set and special abilities and it would be punitive to evaluate your grade based on these circumstances. In order to anchor independent growth over the course of the semester the following grade breakdown will be used:
 
-Questing Participation: 25%			Save Points / Final Bosses: 35%
-Side-Quests: 25%				Inventory Crafting: 15%
+|Questing Participation: 25%	|Save Points / Final Bosses: 35%|
+|Side-Quests: 25%				|Inventory Crafting: 15%        |
 
 
 Grading for assignments and projects will be based on a combination of criteria:
@@ -76,10 +76,10 @@ On top of this software requirement, you must also have:
 ##Required Reading
 All reading materials for this course will be provided by the professor or available online in PDF/ebook formats. With the exception of content already distributed for free online, it is requested that you limit the circulation of printed material to the confines of the class. The professor encourages you to support the authors of the text whenever possible.
 
-*The Practice of Everyday Life* (excerpts), Michel de Certeau
-*How to do Things with Videogames* (Art Chapter), Ian Bogost
-*Without a Goal*, Jasper Juul
-*Homo Ludens (Introduction)*, Johan Huizinga
+*The Practice of Everyday Life* (excerpts), Michel de Certeau<br />
+*How to do Things with Videogames* (Art Chapter), Ian Bogost<br />
+*Without a Goal*, Jasper Juul<br />
+*Homo Ludens (Introduction)*, Johan Huizinga<br />
 *Video Games: the Addiction*, Tom Bissell
 *Gaming: Essays on Algorithmic Culture* (chapter excerpt), Alexander Galloway
 *Critical Play* (excerpts), Mary Flanagan
