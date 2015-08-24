@@ -1,8 +1,8 @@
-# Teaching
+# TEACHING REPO INVITATION/INVOCATION
 
-This public repository is made to document, track changes, and open up the pedagogical practices of Nicholas O'Brien.
+This public repository is made to document, track changes, and open up the pedagogical practices.
 
-In an effort to apply open source methodologies towards academic research and course development, I am inviting others to submit, change, alter, and contribute to this repository in a helpful, constructive, and respectful manner.
+In an effort to apply open source methodologies towards academic research and course development, <a href="http://doubleunderscore.net">Nicholas O'Brien</a> invites you to submit, change, alter, and contribute to this repository in a helpful, constructive, and respectful manner.
 
 This document should serve as a location for contributors (or individuals benefitting from the collective intellectual property stored herein) to voice radical perspectives on the current state of art education and digital media scholarship.
 
