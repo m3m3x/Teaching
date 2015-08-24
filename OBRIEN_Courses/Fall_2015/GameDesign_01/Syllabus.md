@@ -51,15 +51,15 @@ Grading for assignments and projects will be based on a combination of criteria:
 
 These criteria are not weighted for specific preference/importance. With this in mind, students should consider the choices they make in designing and executing their work. Furthermore, students can expect that the above criteria will be applied in critiques as a starting point for discussion and evaluation.
 
-Cellphone Policy
+##Cellphone Policy
 Cell phones are forbidden in class. At the beginning of class, students will be asked to switch off their phones to prevent texting, checking social media, and distracting yourself and others. This policy is enforced to insure class participation and also to collectively agree we are committed to respecting one another.
 
-Copyright and Plagiarism
+##Copyright and Plagiarism
 We will be discussing copyright and its implications on our culture over the course of the semester. For the purposes of this class, however, you must consider the copyright of your work and the work of others. Our inventory will be a repository of intellectual property that we are creating collaboratively and will be distributed via a Creative Commons License. Understanding copyright and intellectual property will be an essential asset for you to wield in your creative and professional careers and future quests.
 
 To reiterate, all work produced in the class must be of your own creation or in collaborative consort with party members. Any assignments submitted during the semester that uses appropriated imagery, code, music, text, or other forms of intellectual property must be properly cited and articulated to the professor. Failure to do so will be considered plagiarism, which will result in immediate academic reprimanding.
 
-Required Materials
+##Required Materials
 This class requires that you download an educational/free version of Unity as well as a copy of Brackets for coding. If working with 3D characters/environments, it is also recommended that you download and educational copy of Maya or Blender. Other software that will benefit you will be provided by the department of Visual Art and Technology (Adobe products, etc.)
 
 On top of this software requirement, you must also have:
@@ -73,28 +73,30 @@ On top of this software requirement, you must also have:
 * (Optional) Monthly subscription to Digital Tutors
 * (Optional) Active Steam Users Account and/or Itch.io account
 
-Required Reading
+##Required Reading
 All reading materials for this course will be provided by the professor or available online in PDF/ebook formats. With the exception of content already distributed for free online, it is requested that you limit the circulation of printed material to the confines of the class. The professor encourages you to support the authors of the text whenever possible.
 
-The Practice of Everyday Life (excerpts), Michel de Certeau
-How to do Things with Videogames (Art Chapter), Ian Bogost
-Without a Goal, Jasper Juul
-Homo Ludens (Introduction), Johan Huizinga
-Video Games: the Addiction, Tom Bissell
-Gaming: Essays on Algorithmic Culture (chapter excerpt), Alexander Galloway
-Critical Play (excerpts), Mary Flanagan
-Hamlet on the Holodeck (excerpts, Chapter 3 & 5), Janet Murray
-Painkiller Deathstreak, Nicholson Baker
-Video Games Spaces (excerpt, Chapter 1), Michael Nitsche
+*The Practice of Everyday Life* (excerpts), Michel de Certeau
+*How to do Things with Videogames* (Art Chapter), Ian Bogost
+*Without a Goal*, Jasper Juul
+*Homo Ludens (Introduction)*, Johan Huizinga
+*Video Games: the Addiction*, Tom Bissell
+*Gaming: Essays on Algorithmic Culture* (chapter excerpt), Alexander Galloway
+*Critical Play* (excerpts), Mary Flanagan
+*Hamlet on the Holodeck* (excerpts, Chapter 3 & 5), Janet Murray
+*Painkiller Deathstreak*, Nicholson Baker
+*Video Games Spaces* (excerpt, Chapter 1), Michael Nitsche
 [subject to change, additions TBA]
 
-Side Quests / Inventory Crafting / Save Points / Final Bosses
+##Side Quests / Inventory Crafting / Save Points / Final Bosses
 There are a number of different assignments that will be distributed throughout the semester. Assignments are broken into two tiers: short-term and long-term. Short-term assignments will be labeled Side Quests and Inventory Crafting. Side quests will look like weekly homework (or in class) assignments to gain XP and access to inventory equipment. Inventory Crafting won’t have specific due dates, but won’t be as labor intensive as longer-term projects. For Inventory Crafting, it is expected that as a party member of this quest you will contribute at least five items for our inventory. This will easily be accomplished during our quest and can take on a variety of item contributions as stated above. Some items will be marked “common” items, such as a torch (for lighting). But crafted items (made by party members) will have particularly useful properties to assist everyone in the quest. Side quests will often be assigned to make sure party members are equipped and trained to use inventory items properly when making new quests.
 
 Save Points and Final Bosses are longer-term assignments that will serve as midterms and final projects. Objectives and details of these assignments will develop as the party levels up and gains XP. Prompts, expectations, specific breakdown of guidelines for these long-term assignments will be handed out in a timely way to make sure that party members have ample time to complete these projects.
 
 All assignments will be turned in electronically to the Professor SATURDAY before midnight in order to receive a full XP. 
-Weekly Schedule
+
+
+##Weekly Schedule
 [subject to change]
 
 Week 01 – August 31
