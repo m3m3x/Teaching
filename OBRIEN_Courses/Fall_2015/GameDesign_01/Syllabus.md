@@ -130,7 +130,7 @@ Ideation session pt. 2 / Unity Continued / Inventory building<br />
 
 Week 07 – October 12<br />
 **SAVE POINTS**<br />
-**Reading**: Hamlet on the Holodeck (Both chapters)<br />
+**Reading**: *Hamlet on the Holodeck* (Both chapters)<br />
 **Side Quest**: Go to Town, Find an Inn
 
 Week 08 – October 19<br />
