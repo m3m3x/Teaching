@@ -102,68 +102,68 @@ All assignments will be turned in electronically to the Professor SATURDAY befor
 
 Week 01 – August 31<br />
 Introduction / Starting the Quest / Building a World Together<br />
-**Viewing / Playing**: *Magic: The Gathering Cards, Mountain, Viridi*
-Side Quest: Campfire Backstory of an Inanimate Object<br />
+**Viewing / Playing**: *Magic: The Gathering Cards, Mountain, Viridi*<br />
+**Side Quest**: Campfire Backstory of an Inanimate Object<br />
 
-Week 02 – September 07
-Campfire / Shaping Expectations / First Stages of Ideation
-Viewing / Playing: Apples to Apples, Metagame, Cards Against Humanity, Gwent 
-Side Quest: Folktale Cardgame
-Reading: How to Do Things with Videogames, Homoludens
+Week 02 – September 07<br />
+Campfire / Shaping Expectations / First Stages of Ideation<br />
+**Viewing / Playing**: *Apples to Apples, Metagame, Cards Against Humanity, Gwent*<br />
+**Side Quest**: Folktale Cardgame<br />
+**Reading**: *How to Do Things with Videogames, Homoludens*<br />
 
-Week 03 – September 14
-Reading Response / Folktale Cardgames / Cards to Boards
-Viewing / Playing: Ticket to Ride, King of Tokyo, Dominion
+Week 03 – September 14<br />
+Reading Response / Folktale Cardgames / Cards to Boards<br />
+**Viewing / Playing**: *Ticket to Ride, King of Tokyo, Dominion*
 
-Week 04 – September 21
-Ideation session / Starting Unity / Assets and Inventories
-Side Quest: Discover a Tool
-Reading: Without a Goal, Gaming: Essays on Algorithmic Culture
+Week 04 – September 21<br />
+Ideation session / Starting Unity / Assets and Inventories<br />
+**Side Quest**: Discover a Tool<br />
+**Reading**: *Without a Goal, Gaming: Essays on Algorithmic Culture*
 
-Week 05 – September 28
-Reading Response / Discover a Tool presentations
-Viewing / Playing: Passage, The Stanley Parable, Dear Esther (depending on time)
+Week 05 – September 28<br />
+Reading Response / Discover a Tool presentations<br />
+**Viewing / Playing**: Passage, The Stanley Parable, Dear Esther (depending on time)
 
-Week 06 – October 05
-Ideation session pt. 2 / Unity Continued / Inventory building
-Viewing / Playing: Journey, Kentucky Route Zero (Act 1)
+Week 06 – October 05<br />
+Ideation session pt. 2 / Unity Continued / Inventory building<br />
+**Viewing / Playing**: Journey, Kentucky Route Zero (Act 1)
 
-Week 07 – October 12
-SAVE POINTS
-Reading: Hamlet on the Holodeck (Both chapters)
-Side Quest: Go to Town, Find an Inn
+Week 07 – October 12<br />
+**SAVE POINTS**<br />
+**Reading**: Hamlet on the Holodeck (Both chapters)<br />
+**Side Quest**: Go to Town, Find an Inn
 
-Week 08 – October 19
-Reading Response / Inventory building
-Viewing / Playing: Jazzpunk, Goat Simulator
-Reading: Critical Play
+Week 08 – October 19<br />
+Reading Response / Inventory building<br />
+**Viewing / Playing**: *Jazzpunk, Goat Simulator* <br />
+**Reading**: *Critical Play*
 
-Week 09 – October 26
-Reading Response / Ideation Session pt. 3 / Stat Check
-Viewing / Playing: Glitch Speedruns
-Side Quest: Magic Item
+Week 09 – October 26<br />
+Reading Response / Ideation Session pt. 3 / Stat Check<br />
+**Viewing / Playing**: Glitch Speedruns<br />
+**Side Quest**: Magic Item
 
-Week 10 – November 02
-Magic Item presentations / Inventory Building / Unlocking Levels
-Reading: Video Games: An Addiction, Painkiller Deathstreak
+Week 10 – November 02<br />
+Magic Item presentations / Inventory Building / Unlocking Levels<br />
+**Reading**: *Video Games: An Addiction, Painkiller Deathstreak*
 
-Week 11 – November 09
-Reading Responses / Inventory Building 
-Side Quest: Master Blacksmith (Gearing up for FINAL BOSS)
+Week 11 – November 09<br />
+Reading Responses / Inventory Building<br />
+**Side Quest**: Master Blacksmith (Gearing up for FINAL BOSS)
 
-Week 12 – November 16
-Master Blacksmith preparations
-Viewing / Playing: Party Choice / Multiplayers
-Reading: The Practice of Everyday Life, Video Game Spaces
+Week 12 – November 16<br />
+Master Blacksmith preparations<br />
+**Viewing / Playing**: Party Choice / Multiplayers<br />
+**Reading**: *The Practice of Everyday Life, Video Game Spaces*
 
-THANKSGIVING BREAK
+**THANKSGIVING BREAK**
 
-Week 13 – November 30
-Reading Response / Inventory Building / Leveling Up
-Side Quest: Miniboss
+Week 13 – November 30<br />
+Reading Response / Inventory Building / Leveling Up<br />
+*Side Quest*: Miniboss<br />
 
-Week 14 – December 07
+Week 14 – December 07<br />
 Mini Boss / Individual Campfire
 
-Week 15 – Final Exam
-FINAL BOSS DUE
+Week 15 – Final Exam<br />
+**FINAL BOSS DUE**
