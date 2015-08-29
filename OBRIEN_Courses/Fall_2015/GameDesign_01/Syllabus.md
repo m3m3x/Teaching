@@ -122,11 +122,11 @@ Ideation session / Starting Unity / Assets and Inventories<br />
 
 Week 05 – September 28<br />
 Reading Response / Discover a Tool presentations<br />
-**Viewing / Playing**: Passage, The Stanley Parable, Dear Esther (depending on time)
+**Viewing / Playing**: *Passage, The Stanley Parable, Dear Esther* (depending on time)
 
 Week 06 – October 05<br />
 Ideation session pt. 2 / Unity Continued / Inventory building<br />
-**Viewing / Playing**: Journey, Kentucky Route Zero (Act 1)
+**Viewing / Playing**: *Journey, Kentucky Route Zero* (Act 1)
 
 Week 07 – October 12<br />
 **SAVE POINTS**<br />
