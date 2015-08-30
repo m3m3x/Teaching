@@ -1,5 +1,5 @@
 #Web Design 01
-Instructor: Nicholas O’Brien
+Instructor: Nicholas O’Brien<br />
 Contact: nobrien@stevens.edu
 
 ####Course Description
@@ -76,9 +76,7 @@ Micro-assignments will be discussed in class and will primarily concern technica
 Projects are longer-term works that will be developed over the course of the semester. Two primary projects will be assigned during the semester: the midterm and the final. Project prompts will be issued in timely ways as the semester progresses. Prompts will depend on class development and ability to progress through lesson plans.
 
 All assignments will be due MONDAY BEFORE MIDNIGHT and should be turned in electronically to the professor in an appropriate manner.
-
 --
-
 Quizzes will be given four times during the semester to make sure that students are retaining technical material. These will be 20 minuet timed multiple choice and short answer quizzes. Preparedness for these quizzes will not require additional outside of class study as long as students are taking diligent notes, completing micro-assignments, and doing the reading. No laptops, cellphones, or electronic devices connected to the Internet will be allowed. You are allowed to reference hand-written notes, but they must be present before quizzes are issued.
 
 ####Weekly Schedule
@@ -125,7 +123,7 @@ Reading Response / Quiz 03 / Creating Advanced Functions / Implementing Librarie
 **Micro-Assignment**: Librarian / Custodian
 
 Week 11 – November 11<br />
-Implementing Server-Simulation / Installing Modules / Creating Content-Managers
+Implementing Server-Simulation / Installing Modules / Creating Content-Managers<br />
 **Reading**: *Unbound: The Politics of Scanning and Art Criticism in the Age of Yelp*
 
 Week 12 – November 18<br />
@@ -133,7 +131,7 @@ Reading Response / Quiz 03 / Con’t Modules & Content Managers<br />
 **Reading**: *Vernacular Web*<br />
 **Micro-assignment**: Exercises in Style, Final Project Proposal
 
-THANKSGIVING BREAK
+**THANKSGIVING BREAK**
 
 Week 13 – December 02<br />
 Reading Response / Final Project Proposals / Work Day
